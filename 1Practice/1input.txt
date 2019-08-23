@@ -1,0 +1,11 @@
+﻿# -*- coding: utf-8 -*-
+# UTF-8 encoding when using korean
+
+# "자신의 나이를 입력해 주세요" 를 age 에 저장	input은 숫자를 입력(문자열을 입력하고 싶을 시 ""사용)
+age = input("자신의 나이를 입력해 주세요");
+# "살고 있는 도시를 입력해 주세요" 를 city 에 저장	raw_input은 문자열을 입력
+city = raw_input("살고 있는 도시를 입력해 주세요");
+
+
+# age와 city 출력
+print age, city;
